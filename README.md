@@ -1,3 +1,3 @@
 # Screenshot
 
-![Screenshot of the application](screenshot.png)
+![Screenshot of the application](./screenshot.png)
